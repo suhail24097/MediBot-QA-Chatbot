@@ -36,7 +36,7 @@ LLM-based summarization
 
 🔹 Architecture
 
-Explain this in bullets (from report):
+(from report):
 
 User query
 
