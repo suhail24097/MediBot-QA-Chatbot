@@ -10,7 +10,7 @@ Explain in 3–4 lines:
 
 An AI-powered healthcare chatbot that answers medical queries by combining structured MySQL databases with an LLM-based reasoning engine.
 
-🔹 Key Features (from your report)
+🔹 Key Features 
 
 Hybrid SQL + LLM query answering
 
